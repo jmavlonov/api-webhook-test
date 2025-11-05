@@ -44,7 +44,6 @@ def main():
 
     print("Part 1:", part1)
 
-    # 2-qadam: 2-qismni kutish
     print("\n⌛ Waiting for Part 2 to arrive via webhook...")
     global part2_value
     while part2_value is None:
